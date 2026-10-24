@@ -1,0 +1,1 @@
+Download the CSV from https://www.kaggle.com/datasets/blastchar/telco-customer-churn and put WA_Fn-UseC_-Telco-Customer-Churn.csv here. Raw data is not redistributed. On Kaggle attach the source dataset instead.
